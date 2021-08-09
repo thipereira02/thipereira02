@@ -8,7 +8,7 @@
 
 
 ### Talk with me:
-<a href="https://www.linkedin.com/in/thiago-pereira02/"><img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/thiago-pereira02/" target="_blank"><img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <br />
 
