@@ -2,14 +2,13 @@
 
 ## I'm a Developer, Creator, Civil Engeneering and eternal student!!
 - 🔭 I’m currently in fullstack developer training
-- 🌱 I’m currently learning React Native and Azure
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- ⚡ Fun fact: I really like watching and playing football
 
 
 ### Talk with me:
-<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/thiago-pereira02/"><img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <br />
 
@@ -26,4 +25,5 @@
 <img align="left" alt="postgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Linux" width="26px" src="https://simpleicons.org/icons/linux.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
