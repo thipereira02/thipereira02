@@ -1,4 +1,4 @@
-# Hello there, I'm Thiago  😎✌️
+<h1 align="center">Hello there, I'm Thiago  😎✌️</h1>
 
 ## I'm a Full Stack Developer, Creator, Civil Engeneering and eternal student!!
 - 🔭 I’m currently in fullstack developer training
