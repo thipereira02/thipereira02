@@ -1,4 +1,4 @@
-### Hello there, I'm Thiago  👋
+# Hello there, I'm Thiago  😎✌️
 
 ## I'm a Full Stack Developer, Creator, Civil Engeneering and eternal student!!
 - 🔭 I’m currently in fullstack developer training
