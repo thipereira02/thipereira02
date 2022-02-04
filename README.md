@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Thiago  😎✌️</h1>
 
 ## I'm a Full Stack Developer, Creator, Civil Engeneering and eternal student!!
-- 🔭 I’m currently in fullstack developer training
+- 🔭 I’m currently learning React Native
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I really like watching and playing football
