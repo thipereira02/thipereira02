@@ -47,5 +47,5 @@ Let's create something awesome together! ✨👨‍💻
 
 **📈 My Github stats:**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thipereira02&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thipereira02&show_icons=true&theme=gotham" alt="thipereira02" />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thipereira02&show_icons=true&theme=gotham" alt="thipereira02" />
