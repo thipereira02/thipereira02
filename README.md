@@ -1,14 +1,17 @@
-### Hey there 
-<a href="https://www.instagram.com/th.pereira02/">
-  <img align="left" alt="Thiago's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discordapp.com/users/thipereira">
-  <img align="left" alt="Thiago's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/thi-pereira/">
-  <img align="left" alt="Thiago's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+### Hey there
+<div>
+    <a href="https://www.instagram.com/th.pereira02/">
+    <img align="left" alt="Thiago's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+    </a>
+    <a href="https://discordapp.com/users/thipereira">
+    <img align="left" alt="Thiago's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+    </a>
+    <a href="https://www.linkedin.com/in/thi-pereira/">
+    <img align="left" alt="Thiago's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+    </a>
+</div>
 
+<br />
 <br />
 
 Hi, I'm Thiago Pereira! 🚀 I'm a passionate web developer with a love for creating amazing digital experiences. My journey in the world of programming started with a dream to turn ideas into reality, and I strive to build elegant and user-friendly interfaces.
