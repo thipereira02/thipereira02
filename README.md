@@ -1,14 +1,20 @@
 <h1 align="left">Hey there 😎✌️</h1>
-<div>
+<div align="center">
+  <span>
     <a href="https://www.instagram.com/th.pereira02/">
-    <img align="left" alt="Thiago's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+      <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
+  </span>
+  <span>
     <a href="https://discordapp.com/users/thipereira">
-    <img align="left" alt="Thiago's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+      <img src="https://skillicons.dev/icons?i=discord" />
     </a>
+  </span>
+  <span>
     <a href="https://www.linkedin.com/in/thi-pereira/">
-    <img align="left" alt="Thiago's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+      <img src="https://skillicons.dev/icons?i=linkedin" />
     </a>
+  </span>
 </div>
 
 <br />
