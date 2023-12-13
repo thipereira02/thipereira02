@@ -1,7 +1,7 @@
 <h1 align="left">Hey there 😎✌️</h1>
 <div align="center">
   <span>
-    <a href="https://www.instagram.com/th.pereira02/">
+    <a href="https://www.instagram.com/th.spereira_/">
       <img src="https://skillicons.dev/icons?i=instagram" />
     </a>
   </span>
